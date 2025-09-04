@@ -1,4 +1,4 @@
-Taxi Demand Forecasting System
+Smart-Demand-Forecasting
 
 An intelligent forecasting framework for predicting taxi demand across urban zones using historical trip records and machine learning models.
 
